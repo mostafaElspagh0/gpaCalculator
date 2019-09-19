@@ -1,6 +1,10 @@
 # gpaclac
 
-A new Flutter project.
+Flutter project to calculate the GPA of Cairo Science School in easy way.
+
+![alt text](https://raw.githubusercontent.com/mostafaElspagh0/gpaCalculator/master/home.png) ![alt text](https://raw.githubusercontent.com/mostafaElspagh0/gpaCalculator/master/resault.png)
+
+
 
 ## Getting Started
 
